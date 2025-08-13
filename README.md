@@ -1,12 +1,5 @@
 MaraDash - Personalized Marathon Tracker 
 
-# Dashboard Preview
-
-
-
-![Dashboard Screenshot](./assets/dash.png")
-
-
 # Features
 - Training Dashboard: Visualizes weekly mileage, total time, and number of activities with animated tiles and charts.
 - Run Planner: Input your target distance and goal pace, and receive a custom plan with fueling advice and mile-by-mile pacing.
