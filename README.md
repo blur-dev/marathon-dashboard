@@ -4,7 +4,7 @@ MaraDash - Personalized Marathon Tracker
 
 
 
-![Dashboard Screenshot]("dash.png")
+![Dashboard Screenshot](./assets/dash.png")
 
 
 # Features
