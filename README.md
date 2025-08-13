@@ -4,7 +4,7 @@ MaraDash - Personalized Marathon Tracker
 
 
 
-![Dashboard Screenshot]("C:\Users\ajPat\OneDrive\Desktop\dash.png")
+![Dashboard Screenshot]("./assets/dashboard.png")
 
 
 # Features
