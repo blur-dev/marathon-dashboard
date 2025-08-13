@@ -12,7 +12,7 @@ MaraDash - Personalized Marathon Tracker
 - Run Planner: Input your target distance and goal pace, and receive a custom plan with fueling advice and mile-by-mile pacing.
 - Strava Integration: Pulls and analyzes real run data via the Strava API.
 
-#Technologies
+# Technologies
 
 - Frontend: React, Framer Motion, Recharts, React Router
 - Backend: Node.js, Express
